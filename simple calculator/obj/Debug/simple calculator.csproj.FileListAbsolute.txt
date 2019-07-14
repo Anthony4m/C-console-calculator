@@ -1,0 +1,5 @@
+C:\Users\Himself\RiderProjects\simple calculator\simple calculator\bin\Debug\simple_calculator.exe
+C:\Users\Himself\RiderProjects\simple calculator\simple calculator\bin\Debug\simple_calculator.pdb
+C:\Users\Himself\RiderProjects\simple calculator\simple calculator\obj\Debug\simple calculator.csprojResolveAssemblyReference.cache
+C:\Users\Himself\RiderProjects\simple calculator\simple calculator\obj\Debug\simple_calculator.exe
+C:\Users\Himself\RiderProjects\simple calculator\simple calculator\obj\Debug\simple_calculator.pdb
